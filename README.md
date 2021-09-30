@@ -32,6 +32,9 @@ $ git clone https://github.com/James404-cyber/Number.git
 $ cd Number
 $ dpkg -i SPEED*.deb
 $ SPEED
+
+User: Number
+Pass:Cracking
 ```
 
 # Single Command 
