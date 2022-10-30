@@ -9,7 +9,7 @@ Facebook Random Number Id Cloning, No Login Need
 <h2 align="center"> FB NUMBER ID CRACKING TOOL </h2>
 
 <p align="center">
-      FB RANDOM NUMBER  ID CLONER 
+      FB RANDOM NUMBER  ID CLONER BY SHABAZ HACKER
 </p>
 
 
@@ -21,6 +21,7 @@ Facebook Random Number Id Cloning, No Login Need
 
 ```
 FOR NEW OLD ID CLONING 
+IAM SHAHBAAZ DEVELOPR
 $ pkg update
 $ pkg upgrade
 $ pkg install python
@@ -51,8 +52,8 @@ $ cd Number
 $ dpkg -i Speed*.deb
 $ Speed
 
-User: Number
-Pass:Cracking
+User: SHAHBAZ 
+Pass:BOSS
 
 
 
